@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtube.com/@Putra_Modz_'
-global.sgh = 'https://github.com/Lucife-Putra'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6282214729677'
-global.swa = 'wa.me/682214729677'
+global.sig = 'https://instagram.com/lans.xys'
+global.syt = 'https://youtube.com/@LansDev'
+global.sgh = 'https://github.com/Lans-ofc'
+global.sgc = 'https://chat.whatsapp.com/F9St301rfmhE7xOFBKmvG2'
+global.sdc = 'https://wa.me/6283132749084'
+global.swa = 'wa.me/6283132749084'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '083132749084'
 global.povo = '-'
-global.pgopay = '-'
+global.pgopay = '083132749084'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6283820901508'
+global.nomorown = '6283132749084'
+global.namebot = 'KingBot'
+global.nameown = 'LansModz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6283132749084'],
+  ['6283132749084'],
+  ['6283820901508'],
+  ['6283132749084', 'LansModz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
